@@ -49,7 +49,7 @@ Ecart is a responsive e-commerce web application built using React JS and Fireba
 ---
 ## Screenshots
 ## Home Page
-    <img src="home.png"/>  home.png
+    <img src="home.png"/>  
 ## Products
     <img src="products.png"/>
 ## Cart Page
