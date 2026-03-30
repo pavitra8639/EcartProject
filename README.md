@@ -20,25 +20,25 @@ Ecart is a responsive e-commerce web application built using React JS and Fireba
 - Backend/Database: Firebase, Firestore
 ---
 ## How it Works:
-1.Products are fetched from an API using Axios inside useEffect.
-2.Data is displayed dynamically on the UI.
-3.When user clicks Add to Cart:
+- Products are fetched from an API using Axios inside useEffect.
+- Data is displayed dynamically on the UI.
+- When user clicks Add to Cart:
     - product is stored in Context API state.
     - saved in Local Storage for persistence.
-4.On Page refresh:
+- On Page refresh:
     - cart data is retrieved from Local storage.
     - cart count remains consistent.
-5.Firebase I used for:
+- Firebase I used for:
     - User Authentication(Login/Signup)
     - Database storage (Firestore)
 ---
 ## Challeges Faced:
--> Cart data lost after page refresh
-       ->To solved this using Local Storage.
--> Managing global state across components
-       ->To solved using Context API.
--> Backend integration complexity 
-       ->To solved using Firebase for easy database & Auth.
+- Cart data lost after page refresh
+       -To solved this using Local Storage.
+- Managing global state across components
+       -To solved using Context API.
+- Backend integration complexity 
+       -To solved using Firebase for easy database & Auth.
 ---
 ## What I Learned:
 - React Hooks(useState,useEffect)
