@@ -46,3 +46,14 @@ Ecart is a responsive e-commerce web application built using React JS and Fireba
 - API integration using Axios.
 - Backend integration using Firebase.
 - Debugging real-world issues.
+---
+## Screenshots
+## Home Page
+   - home.png
+## Products
+   - products.png
+## Cart Page
+   - cart.png
+## AddToCart page
+   -addtocart.png
+   
