@@ -50,10 +50,10 @@ Ecart is a responsive e-commerce web application built using React JS and Fireba
 ## Screenshots
 ## Home Page
   -  <img width="1105" height="7138" alt="home" src="https://github.com/user-attachments/assets/b15df903-1c1b-49eb-96cd-df7c3af6a585" />
-## Cart Page
-- <img width="1902" height="848" alt="cart" src="https://github.com/user-attachments/assets/51318665-832c-4616-a0c1-fb3f9ce17e52" />
 ## AddToCart page
 - <img width="1893" height="898" alt="addtocart" src="https://github.com/user-attachments/assets/f6823e8b-5a97-4eec-8979-04f33625564b" />
+## Cart Page
+- <img width="1902" height="848" alt="cart" src="https://github.com/user-attachments/assets/51318665-832c-4616-a0c1-fb3f9ce17e52" />
 ## wishlist page
  - <img width="1899" height="655" alt="wishlist" src="https://github.com/user-attachments/assets/365cf9b5-c4f7-4bc3-b0a4-cf9e5f174e23" />
 
